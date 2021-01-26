@@ -3,3 +3,7 @@ https://github.com/DFRobot/Maqueen_MicroPython_MU
 
 download makecode library
 https://github.com/jhlucky/maqueen
+
+SKU:ROB0148-E micro: Maqueen Lite-micro:bit Educational Programming Robot Platform
+Introduction
+https://wiki.dfrobot.com/micro_Maqueen_for_micro_bit_SKU_ROB0148-E
