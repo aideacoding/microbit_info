@@ -1,3 +1,7 @@
+### Microbit V2
+# The micro:bit developer community site
+https://tech.microbit.org/
+
 DFRobot/Maqueen_MicroPython_MU
 https://github.com/DFRobot/Maqueen_MicroPython_MU
 
