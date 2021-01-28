@@ -1,11 +1,14 @@
 # Microbit V2
+### Meet the new BBC micro:bit
+https://microbit.org/new-microbit/
+
 ### The micro:bit developer community site
 https://tech.microbit.org/
 
-# DFRobot/Maqueen_MicroPython_MU
+### DFRobot/Maqueen_MicroPython_MU
 https://github.com/DFRobot/Maqueen_MicroPython_MU
 
-# download makecode library
+### download makecode library
 https://github.com/jhlucky/maqueen
 
 ### SKU:ROB0148-E micro: Maqueen Lite
