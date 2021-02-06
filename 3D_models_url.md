@@ -13,3 +13,5 @@ https://www.thingiverse.com/thing:2187167
 #### by cymon January 10, 2013
 https://www.thingiverse.com/thing:41154
 
+### by BitNBolt - Ball joint designer
+https://www.tinkercad.com/users/6ZyoPpYZi88
