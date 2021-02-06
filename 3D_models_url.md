@@ -15,3 +15,17 @@ https://www.thingiverse.com/thing:41154
 
 ### by BitNBolt - Ball joint designer
 https://www.tinkercad.com/users/6ZyoPpYZi88
+
+### Tinkercad Tutorial: Joystick
+#### by craeen March 11, 2017
+https://www.thingiverse.com/thing:2169036
+
+
+### Height adjustable router support for rotary tool
+#### by engineertopi December 24, 2015
+https://www.thingiverse.com/thing:1222591
+
+### filament spool holder - triangle frame
+#### by andrewfrueh May 24, 2011
+
+
