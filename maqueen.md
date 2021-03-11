@@ -28,7 +28,8 @@ https://www.instructables.com/Using-the-DF-Robot-Micro-Maqueen-MicroBit-Robot-Pl
 ### IR Sensor
 https://learn.adafruit.com/ir-sensor/overview
 
-
+### Micro bit lesson — Using the Ultrasonic Module
+https://osoyoo.com/2018/09/18/micro-bit-lesson-using-the-ultrasonic-module/
 
 # Microbit Tutorials
 ### BBC Bitesize Computing
