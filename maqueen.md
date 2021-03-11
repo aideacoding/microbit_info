@@ -25,6 +25,9 @@ https://wiki.dfrobot.com/micro_Maqueen_for_micro_bit_SKU_ROB0148-E
 ### Using the DF Robot Micro Maqueen Micro:Bit Robot Platform With the Arduino IDE
 https://www.instructables.com/Using-the-DF-Robot-Micro-Maqueen-MicroBit-Robot-Pl/
 
+### IR Sensor
+https://learn.adafruit.com/ir-sensor/overview
+
 
 
 # Microbit Tutorials
