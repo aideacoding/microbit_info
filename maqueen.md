@@ -16,9 +16,16 @@ https://github.com/microbit-foundation/micropython-microbit-v2/releases/tag/v2.0
 ### MicroPython on the micro:bit via CODAL
 https://github.com/microbit-foundation/micropython-microbit-v2/tree/v2.0.0-beta.3
 
+
+
 # SKU:ROB0148-E micro: Maqueen Lite
 ### micro:bit Educational Programming Robot Platform Introduction
 https://wiki.dfrobot.com/micro_Maqueen_for_micro_bit_SKU_ROB0148-E
+
+### Using the DF Robot Micro Maqueen Micro:Bit Robot Platform With the Arduino IDE
+https://www.instructables.com/Using-the-DF-Robot-Micro-Maqueen-MicroBit-Robot-Pl/
+
+
 
 # Microbit Tutorials
 ### BBC Bitesize Computing
