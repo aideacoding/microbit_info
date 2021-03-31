@@ -33,4 +33,5 @@ https://www.thingiverse.com/thing:1222591
 ### filament spool holder - triangle frame
 #### by andrewfrueh May 24, 2011
 
-
+### bracelet
+https://www.tinkercad.com/things/iATb6BmPy8p
