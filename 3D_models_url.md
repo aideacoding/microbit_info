@@ -39,3 +39,22 @@ https://www.tinkercad.com/things/iATb6BmPy8p
 
 ### Image Shape Generator
 https://www.tinkercad.com/things/5or2DEIckDR
+
+### Poseable Velociraptor Figure- Print Ready
+https://www.tinkercad.com/things/9Qj99vHYMkp
+
+### 3D Printable Parts for poseable Skeleton
+https://www.tinkercad.com/things/iIcXgm1WFCU
+
+### Printable, poseable Ninja figure- Print-ready
+https://www.tinkercad.com/things/3ToOg97u58o
+
+### Spring Flinger #Tinkertivities #mechanical
+https://www.tinkercad.com/things/7NDIq1RNmGD
+
+### Minecraft Party Glasses
+https://www.tinkercad.com/things/0Zb54bGRvgr
+
+### Print-In-Place Hinge Mold
+https://www.tinkercad.com/things/24cZXn1roea
+
