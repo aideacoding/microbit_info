@@ -1,4 +1,4 @@
-Windows
+# Windows
 Windows에서 Windows 키를 누르고 메모장이라고 입력합니다.
 메모장을 마우스 오른쪽 버튼으로 클릭하고 Run as Administrator(관리자 권한으로 실행)를 선택합니다.
 Windows에서 이 프로그램을 변경할지 묻는 경우 Yes(예)를 클릭합니다.
@@ -12,7 +12,7 @@ ping forcesafesearch.google.com 명령어를 입력하고 IP 주소를 기록합
 
 참고: Windows가 PC의 다른 위치에 설치된 경우 명령 프롬프트에 cd /d %systemroot%\system32\drivers\etc 명령어를 입력하면 호스트 파일을 찾을 수 있습니다.
 
-linux
+# linux
 터미널을 엽니다.
 ping forcesafesearch.google.com 명령어를 입력하고 IP 주소를 기록합니다. IP 주소의 형식은 다음과 같습니다. 216.239.38.120
 sudo nano /etc/hosts 명령어를 입력합니다.
