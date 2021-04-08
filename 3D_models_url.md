@@ -49,6 +49,9 @@ https://www.tinkercad.com/things/iIcXgm1WFCU
 ### Printable, poseable Ninja figure- Print-ready
 https://www.tinkercad.com/things/3ToOg97u58o
 
+### Tinkerplay weapons
+https://www.tinkercad.com/things/kQVin7F0kwU
+
 ### Spring Flinger #Tinkertivities #mechanical
 https://www.tinkercad.com/things/7NDIq1RNmGD
 
