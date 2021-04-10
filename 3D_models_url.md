@@ -61,3 +61,15 @@ https://www.tinkercad.com/things/0Zb54bGRvgr
 ### Print-In-Place Hinge Mold
 https://www.tinkercad.com/things/24cZXn1roea
 
+### saber motion - gzumwalt
+https://cults3d.com/en/3d-model/game/saber
+
+### gzumwalt
+https://www.instructables.com/member/gzumwalt/
+
+### Computational Design of Mechanical Characters
+https://www.youtube.com/watch?v=DfznnKUwywQ
+
+### disney research
+https://la.disneyresearch.com/
+
