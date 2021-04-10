@@ -81,3 +81,6 @@ https://www.thingiverse.com/thing:2753756
 
 ### Perseverance Petite, Motorized
 https://www.instructables.com/Perseverance-Petite-Motorized/
+
+### Saber 2
+https://www.instructables.com/Saber-2/
