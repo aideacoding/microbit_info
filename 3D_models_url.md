@@ -73,3 +73,11 @@ https://www.youtube.com/watch?v=DfznnKUwywQ
 ### disney research
 https://la.disneyresearch.com/
 
+### Horse, Prototype
+https://www.instructables.com/Horse-Prototype/
+
+### The Doorman
+https://www.thingiverse.com/thing:2753756
+
+### Perseverance Petite, Motorized
+https://www.instructables.com/Perseverance-Petite-Motorized/
